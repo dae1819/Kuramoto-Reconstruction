@@ -1,4 +1,4 @@
-# Kuramoto-Reconstruction
+# :file_folder: Kuramoto-Reconstruction
 Work developed by Daniel Ezaz and Bilgesu Aydın (MSci students at Imperial College London) and supervised by Prof. Kim Christensen (Imperial) & Dr. Giovanni Petri (CENTAI)
 
 Reconstructing pairwise and group interactions from nodal data of oscillators
